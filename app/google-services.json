@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676759685002",
+    "project_id": "appkart-2892a",
+    "storage_bucket": "appkart-2892a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676759685002:android:9748a5f65c34486374ea73",
+        "android_client_info": {
+          "package_name": "com.example.appkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676759685002-j24n56mupp78mtl8qkqqtv2p8o051tfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdVrbcfTC0bMzFhtdB_aK-5kgIwuN4kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676759685002-j24n56mupp78mtl8qkqqtv2p8o051tfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

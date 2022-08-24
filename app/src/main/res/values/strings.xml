@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppKart</string>
+    <string name="first_slide">Choose your Products</string>
+    <string name="second_slide">fast delivery</string>
+    <string name="third_slide">good service</string>
+    <string name="description">Kargbhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhvgytvfytfcvytytftyftyt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
